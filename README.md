@@ -1,7 +1,7 @@
 # TrackYourLeetcode 
 ## Now your Problem id's right in front of you - track them , Revise and learn more
 
-This App provides a minimal setup to get your leetcode problem id , thgeir date of solving and submission dates.
+This App provides a minimal setup to get your leetcode problem id , their date of solving and submission dates.
 
 
 ## Just a tap away from tracking your problems
@@ -11,7 +11,7 @@ If you are developing a production application, we recommend updating the config
 
 ```Revise table
 
-  `3221` `TwoSum` info-.......
+  '3221' 'TwoSum' info-.......
 
 ```
 
