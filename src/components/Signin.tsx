@@ -3,7 +3,7 @@
 function Signin() {
   return (
     <>
-        <button type="button" className=" text-xl italic">Sign in</button>
+        <button type="button" className="cursor-pointer text-xl italic">Sign in</button>
         
     </>
   )
