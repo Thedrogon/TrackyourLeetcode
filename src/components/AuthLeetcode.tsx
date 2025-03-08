@@ -3,8 +3,9 @@
 function AuthLeetcode() {
   return (
     <div>
-        <button type="button" className="italic  cursor-pointer text-xl decoration-solid">Authenticate </button>
-       </div>
+      <h1>Auth Leetcode</h1>
+      <p>Auth Leetcode page content</p>
+    </div>
   )
 }
 

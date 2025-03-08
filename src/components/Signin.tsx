@@ -2,10 +2,10 @@
 
 function Signin() {
   return (
-    <>
-        <button type="button" className="cursor-pointer text-xl italic">Sign in</button>
-        
-    </>
+    <div>
+      <h1>Sign in</h1>
+      <p>Sign in page content</p>
+    </div>
   )
 }
 
