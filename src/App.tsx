@@ -1,17 +1,17 @@
 
 import { Route, Routes } from 'react-router-dom'
 import './App.css'
-import AuthLeetcode from './components/AuthLeetcode'
 import Signin from './components/Signin'
-import Home from './components/Home'
+import Header from './components/Header'
+import LeetcodeTracker from './components/LeetcodeTracker'
 function App() {
   
 
   return (
       <div>
         <Routes>
-            <Route path="/" element={<Home/>} />
-            <Route path="/auth/leetcode" element={<AuthLeetcode/>} />
+            <Route path="/" element={<Header/>} />
+            <Route path="/auth/leetcode" element={<LeetcodeTracker/>} />
             <Route path="/Signin" element={<Signin/>} />
         </Routes>
       </div>
